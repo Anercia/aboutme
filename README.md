@@ -2,7 +2,7 @@
 
 Sou estudante do curso de Informática na Universidade Rovuma, em Nacala-Porto, em Nampula-Moçabique.
 Tenho desenvolvido projetos escolares que me ajudam a aumentar meu conhecimento na área de programação
-de computadores. Tenho conhecimento nas linguagens de progrmação como:
+de computadores. Tenho conhecimento nas linguagens de programação como:
 - Pascal
 - C, C++
 - Java (POO)
